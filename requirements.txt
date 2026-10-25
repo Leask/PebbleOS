@@ -9,7 +9,7 @@ pexpect
 cobs==1.0.0
 svg.path
 requests
-GitPython==1.0.1
+GitPython==3.2.1
 pyelftools
 pycryptodome
 mock
